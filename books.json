@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Book 1",
+    "author": "Author A",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "thumbnail": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Sample Book 2",
+    "author": "Author B",
+    "pdf_url": "http://www.africau.edu/images/default/sample.pdf",
+    "thumbnail": "https://picsum.photos/200/300?random=2"
+  }
+]
