@@ -4,23 +4,23 @@
     "title": "تعلم فلاتر من الصفر",
     "authors": ["مطوّر عربي"],
     "description": "مدخل عملي شامل لبناء تطبيقات Flutter.",
-    "thumbnail": "https://th.bing.com/th/id/OIP.cJ4dSqwwoYis_clMtElT7QHaFj?w=247&h=186&c=7&r=0&o=7&pid=1.7&rm=3",
+    "thumbnail": "https://www.pdf995.com/samples/pdf.pdf",
     "pdfUrl": "https://www.pdf995.com/samples/pdf.pdf"
   },
   {
-    "id": "p2",
-    "title": "دارت المتقدمة",
-    "authors": ["م. خالد"],
-    "description": "مفاهيم متقدمة في Dart مع أمثلة.",
-    "thumbnail": "https://your-cdn.example.com/covers/dart-advanced.jpg",
-    "pdfUrl": "https://your-cdn.example.com/pdfs/dart-advanced.pdf"
+    "id": "p1",
+    "title": "تعلم فلاتر من الصفر",
+    "authors": ["مطوّر عربي"],
+    "description": "مدخل عملي شامل لبناء تطبيقات Flutter.",
+    "thumbnail": "https://www.pdf995.com/samples/pdf.pdf",
+    "pdfUrl": "https://www.pdf995.com/samples/pdf.pdf"
   },
   {
-    "id": "p3",
-    "title": "تصميم بواجهات Material 3",
-    "authors": ["سارة محمد"],
-    "description": "مرشد لتصميم واجهات جميلة وحديثة.",
-    "thumbnail": "https://your-cdn.example.com/covers/m3.jpg",
-    "pdfUrl": "https://your-cdn.example.com/pdfs/m3-design.pdf"
-  }
+    "id": "p1",
+    "title": "تعلم فلاتر من الصفر",
+    "authors": ["مطوّر عربي"],
+    "description": "مدخل عملي شامل لبناء تطبيقات Flutter.",
+    "thumbnail": "https://www.pdf995.com/samples/pdf.pdf",
+    "pdfUrl": "https://www.pdf995.com/samples/pdf.pdf"
+  },
 ]
