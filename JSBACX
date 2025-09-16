@@ -6,6 +6,7 @@
     "description": "تاريخ",
     "thumbnail": "https://th.bing.com/th/id/OIP.cJ4dSqwwoYis_clMtElT7QHaFj?w=247&h=186&c=7&r=0&o=7&pid=1.7&rm=3",
     "pdfUrl": "https://www.pdf995.com/samples/pdf.pdf"
+    "category": "دين"
   },
   {
     "id": "p2",
@@ -14,6 +15,7 @@
     "description": "وصف مختصر",
     "thumbnail": "https://th.bing.com/th/id/OIP.4H32e3MYUj0cB91kcxShqQHaGl?w=204&h=181&c=7&r=0&o=7&pid=1.7&rm=3",
     "pdfUrl": "https://pdfobject.com/pdf/sample.pdf"
+    "category": "روايات"
   },
   {
     "id": "p3",
@@ -22,6 +24,7 @@
     "description": "وصف مختصر",
     "thumbnail": "https://th.bing.com/th/id/OIP.4H32e3MYUj0cB91kcxShqQHaGl?w=204&h=181&c=7&r=0&o=7&pid=1.7&rm=3",
     "pdfUrl": "https://www.orimi.com/pdf-test.pdf"
+    "category": "تاريخ"
   },
   {
     "id": "p4",
@@ -30,5 +33,6 @@
     "description": "وصف مختصر",
     "thumbnail": "https://th.bing.com/th/id/OIP.4H32e3MYUj0cB91kcxShqQHaGl?w=204&h=181&c=7&r=0&o=7&pid=1.7&rm=3",
     "pdfUrl": "https://drive.google.com/file/d/1x_GDkMAJfEiivVGwewvUKEJiXCZtsRbS/view?usp=drive_link"
+    "category": "علوم"
   }
 ]
