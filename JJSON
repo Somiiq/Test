@@ -4,8 +4,8 @@
     "title": "الخيميائي",
     "authors": ["باولو كويلو"],
     "description": "رواية عن السعي وراء الحلم.",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
-    "pdfUrl": "https://wamdabook.com/media/books/files/818469040_wamdabook.pdf",
+    "thumbnail": "",
+    "pdfUrl": "",
     "category": "روايات"
   },
   {
@@ -13,7 +13,7 @@
     "title": "العادات الذرية",
     "authors": ["جيمس كلير"],
     "description": "تنمية العادات الصغيرة لأثر كبير.",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
+    "thumbnail": "",
     "pdfUrl": "https://example.com/atomic.pdf",
     "category": "تنمية ذاتية"
   },
@@ -22,16 +22,16 @@
     "title": "تاريخ العرب قبل الإسلام",
     "authors": ["جواد علي"],
     "description": "دراسة تاريخية موسعة.",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
+    "thumbnail": "",
     "pdfUrl": "https://example.com/history.pdf",
-    "category": "تاريخ"
+    "category": "روايات"
   },
   {
     "id": "bk_004",
     "title": "رياض الصالحين",
     "authors": ["النووي"],
     "description": "أحاديث وآداب",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
+    "thumbnail": "",
     "pdfUrl": "https://example.com/riyad.pdf",
     "category": "دين"
   },
@@ -40,7 +40,7 @@
     "title": "مدخل إلى علم الفيزياء",
     "authors": ["مؤلف ما"],
     "description": "مفاهيم أساسية في الفيزياء.",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
+    "thumbnail": "",
     "pdfUrl": "https://example.com/physics.pdf",
     "category": "علوم"
   },
@@ -49,7 +49,7 @@
     "title": "تعلم Flutter للمبتدئين",
     "authors": ["م. أحمد"],
     "description": "دليل عملي لبناء تطبيقات.",
-    "thumbnail": "https://wamdabook.com/media/books/image/77354.2021-07-23.1627069477.webp",
+    "thumbnail": "",
     "pdfUrl": "https://example.com/flutter.pdf",
     "category": "تقنية"
   }
