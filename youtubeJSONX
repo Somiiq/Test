@@ -2,7 +2,7 @@
   "videos": [
     {
       "title": "الفيديو الأول",
-      "https://www.youtube.com/watch?v=UFJ5U4dgSNk"
+      "url": "https://www.youtube.com/watch?v=UFJ5U4dgSNk"
     },
     {
       "title": "الفيديو الثاني",
