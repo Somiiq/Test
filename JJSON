@@ -35,22 +35,4 @@
     "pdfUrl": "https://example.com/riyad.pdf",
     "category": "دين"
   },
-  {
-    "id": "bk_005",
-    "title": "مدخل إلى علم الفيزياء",
-    "authors": ["مؤلف ما"],
-    "description": "مفاهيم أساسية في الفيزياء.",
-    "thumbnail": "",
-    "pdfUrl": "https://example.com/physics.pdf",
-    "category": "علوم"
-  },
-  {
-    "id": "bk_006",
-    "title": "تعلم Flutter للمبتدئين",
-    "authors": ["م. أحمد"],
-    "description": "دليل عملي لبناء تطبيقات.",
-    "thumbnail": "",
-    "pdfUrl": "https://example.com/flutter.pdf",
-    "category": "تقنية"
-  }
 ]
