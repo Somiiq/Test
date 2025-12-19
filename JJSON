@@ -34,5 +34,41 @@
     "thumbnail": "https://images.pexels.com/photos/1595655/pexels-photo-1595655.jpeg",
     "pdfUrl": "https://example.com/riyad.pdf",
     "category": "دين"
+  },
+  {
+    "id": "bk_001",
+    "title": "تيسسسست",
+    "authors": ["باولو كويلو"],
+    "description": "رواية عن السعي وراء الحلم.",
+    "thumbnail": "https://www.bigfootdigital.co.uk/wp-content/uploads/2020/07/image-optimisation-scaled.jpg",
+    "pdfUrl": "https://www.orimi.com/pdf-test.pdf",
+    "category": "روايات"
+  },
+  {
+    "id": "bk_002",
+    "title": "العادات الذرية",
+    "authors": ["جيمس كلير"],
+    "description": "تنمية العادات الصغيرة لأثر كبير.",
+    "thumbnail": "https://gratisography.com/wp-content/uploads/2025/01/gratisography-dog-vacation-800x525.jpg",
+    "pdfUrl": "https://example.com/atomic.pdf",
+    "category": "تنمية ذاتية"
+  },
+  {
+    "id": "bk_003",
+    "title": "تاريخ العرب قبل الإسلام",
+    "authors": ["جواد علي"],
+    "description": "دراسة تاريخية موسعة.",
+    "thumbnail": "https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg",
+    "pdfUrl": "https://example.com/history.pdf",
+    "category": "روايات"
+  },
+  {
+    "id": "bk_004",
+    "title": "رياض الصالحين",
+    "authors": ["النووي"],
+    "description": "أحاديث وآداب",
+    "thumbnail": "https://images.pexels.com/photos/1595655/pexels-photo-1595655.jpeg",
+    "pdfUrl": "https://example.com/riyad.pdf",
+    "category": "دين"
   }
 ]
