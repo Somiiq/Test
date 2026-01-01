@@ -1,13 +1,13 @@
 [
   {
     "id": "1",
-    "price": "4,000",
-    "discount": "2,000",
+    "price": "30,000",
+    "discount": "60,000",
     "rate": "4.7",
-    "title": "برغر كلاسك",
+    "title": "خلاط كهربائي",
     "authors": ["باولو كويلو"],
     "description": "رواية عن السعي وراء الحلم.",
-    "thumbnail": "https://thumbs.dreamstime.com/b/tasty-burger-french-fries-fire-close-up-hoiiime-made-flames-137249900.jpg",
+    "thumbnail": "https://glimsyhome.com/cdn/shop/products/black_flair_sh-6060_512x512.jpg?v=1757457015",
     "pdfUrl": "https://www.orimi.com/pdf-test.pdf",
     "category": "روايات"
   },
